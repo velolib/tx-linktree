@@ -64,7 +64,7 @@ const competitions = [
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     contact: "https://wa.me/6285215319829",
-    name: "Farrel",
+    name: "Farrell",
   },
 ];
 
@@ -85,7 +85,7 @@ export default function EventPage() {
             T<span className="font-black">8</span>CHNOFEST
           </h1>
           <p className="mt-2 text-sm font-medium md:text-base">
-            Teknologi dan Soundsystems
+            Teknologi dan Soundsystem
           </p>
         </div>
 
@@ -126,7 +126,7 @@ export default function EventPage() {
         {/* 3 Competitions */}
         <h2 className="relative mb-6 text-center text-2xl font-bold md:text-3xl">
           <span className="relative inline-block">
-            Lomba
+            Cabang Lomba
             <span className="from-crimson-600 to-tx-500 absolute right-0 -bottom-2 left-0 h-1 rounded-full bg-linear-to-b"></span>
           </span>
         </h2>
@@ -748,6 +748,18 @@ export default function EventPage() {
           </Tabs>
         </div>
 
+        {/* CTA #2 */}
+        <a
+          href="https://placehold.co/600x400?text=Not+Ready"
+          className="motion-preset-expand group shoadow-lg from-tx-500 to-crimson-600 hover:from-tx-400 hover:to-crimson-500 mt-4 flex items-center rounded-lg bg-linear-to-br px-4 py-3 font-bold text-white transition duration-200"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <ExternalLink className="mr-2 inline-block" />
+          Daftar Sekarang
+          <ArrowRight className="ml-2 inline-block transition-transform group-hover:translate-x-0.5" />
+        </a>
+
         {/* Footer */}
         <div className="my-4 w-full overflow-hidden rounded-sm">
           <hr className="bg-crimson-600 h-1 w-full border-0" />
@@ -769,7 +781,7 @@ export default function EventPage() {
             ))}
           </div>
           <p className="text-crimson-600 text-sm">
-            © 2023 Teknologi dan Soundsystems
+            © 2025 Teknologi dan Soundsystem
           </p>
         </div>
       </div>
