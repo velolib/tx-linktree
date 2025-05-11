@@ -306,7 +306,7 @@ export default function EventPage() {
                 <li>
                   Jika terdapat tim yang seluruh anggotanya belum melakukan
                   registrasi ulang hingga batas waktu yang sudah ditentukan
-                  panitia, maka tim tersebut otomatis <b>DIDISKUALIFIKASI</b>.
+                  panitia, maka tim tersebut otomatis <b className="text-crimson-500">DIDISKUALIFIKASI</b>.
                 </li>
               </ul>
 
@@ -364,7 +364,7 @@ export default function EventPage() {
                 <li>Mode Game yang dimainkan adalah draft pick.</li>
                 <li>
                   Penggunaan program ilegal (cheating) dalam bentuk apapun akan
-                  dikenakan hukuman <b>BAN PERMANEN</b> baik itu ID, device, dan
+                  dikenakan hukuman <b className="text-crimson-500">BAN PERMANEN</b> baik itu ID, device, dan
                   hak keikutsertaan.
                 </li>
                 <li>
@@ -423,7 +423,7 @@ export default function EventPage() {
                   jadwal pertandingan yang telah ditentukan maka pertandingan
                   tersebut akan dipindahkan ke jam <i>slot</i> berikutnya. Jika
                   setelah diundur tim tersebut masih belum lengkap/tidak dapat
-                  hadir maka tim tersebut <b>DIDISKUALIFIKASI</b>.
+                  hadir maka tim tersebut <b className="text-crimson-500">DIDISKUALIFIKASI</b>.
                 </li>
                 <li>
                   Sebelum <i>match</i> dimulai setiap kapten tim wajib
@@ -453,7 +453,7 @@ export default function EventPage() {
                 </li>
                 <li>
                   Pelanggaran format turnamen akan diberikan satu kali{" "}
-                  <b>peringatan</b> atau <b>diskualifikasi</b> secara langsung.
+                  <b>peringatan</b> atau <b className="text-crimson-500">diskualifikasi</b> secara langsung.
                 </li>
                 <li>
                   Seluruh keputusan dari panitia bersifat <b>MUTLAK</b>.
