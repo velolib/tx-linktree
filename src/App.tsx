@@ -84,7 +84,12 @@ export default function EventPage() {
           <h1 className="from-crimson-600 to-tx-500 bg-gradient-to-br bg-clip-text text-4xl font-bold text-transparent md:text-5xl">
             T<span className="font-black">8</span>CHNOFEST
           </h1>
-          <p className="mt-2 text-sm font-medium md:text-base">
+          
+          <h2 className="mt-1 text-xs font-medium text-tx-800 md:text-sm">
+            8 Technology Festival
+          </h2>
+          
+          <p className="mt-3 text-sm font-medium md:text-base">
             Teknologi dan Soundsystem
           </p>
         </div>
