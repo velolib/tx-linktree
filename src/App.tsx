@@ -48,21 +48,21 @@ const competitions = [
   {
     title: "Mobile Legends",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Kompetisi E-Sport Mobile Legend Tingkat SMA/Sederajat",
     contact: "https://wa.me/6289531671507",
     name: "Ryan",
   },
   {
     title: "Web Design",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Kompetisi Web Design Tingkat SMA/Sederajat",
     contact: "https://wa.me/6281905318471",
     name: "Fathur",
   },
   {
     title: "CCInformatika",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Kompetisi Cerdas Cermat Informatika tingkat SMA/Sederajat",
     contact: "https://wa.me/6285215319829",
     name: "Farrell",
   },
@@ -96,7 +96,7 @@ export default function EventPage() {
 
         {/* CTA Register */}
         <a
-          href="https://placehold.co/600x400?text=Not+Ready"
+          href="https://forms.gle/uDJkofNaucRPPQkj8"
           className="motion-preset-expand group shoadow-lg from-tx-500 to-crimson-600 hover:from-tx-400 hover:to-crimson-500 mt-4 flex items-center rounded-lg bg-linear-to-br px-4 py-3 font-bold text-white transition duration-200"
           target="_blank"
           rel="noopener noreferrer"
@@ -760,7 +760,7 @@ export default function EventPage() {
 
         {/* CTA #2 */}
         <a
-          href="https://placehold.co/600x400?text=Not+Ready"
+          href="https://forms.gle/uDJkofNaucRPPQkj8"
           className="motion-preset-expand group shoadow-lg from-tx-500 to-crimson-600 hover:from-tx-400 hover:to-crimson-500 mt-4 flex items-center rounded-lg bg-linear-to-br px-4 py-3 font-bold text-white transition duration-200"
           target="_blank"
           rel="noopener noreferrer"
