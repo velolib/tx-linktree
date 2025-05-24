@@ -1,5 +1,5 @@
 import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
-import logo from "./assets/logo.svg";
+import logo from "./assets/logo.jpg";
 import { CompetitionCard } from "./components/competition-card";
 import { ArrowRight, ExternalLink, Mail } from "lucide-react";
 import {
@@ -73,10 +73,10 @@ export default function EventPage() {
     <div className="bg-yummers flex min-h-screen w-full items-center justify-center p-4">
       {/* Header */}
       <div className="border-styled from-back-100 to-back-100 flex h-full w-full max-w-5xl flex-col items-center gap-6 rounded-lg bg-gradient-to-b p-6 shadow-lg">
-        <div className="bg-back-200 flex aspect-square w-56 items-center justify-center rounded-full p-3 shadow-md">
+        <div className="bg-back-200 flex aspect-square w-56 items-center justify-center rounded-full p-3 shadow-md overflow-hidden">
           <img
             src={logo}
-            className="motion-preset-expand size-full"
+            className="motion-preset-expand size-full rounded-full"
             alt="logo"
           />
         </div>
