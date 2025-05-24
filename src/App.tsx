@@ -48,21 +48,21 @@ const competitions = [
   {
     title: "Mobile Legends",
     description:
-      "Kompetisi E-Sport Mobile Legend Tingkat SMA/Sederajat",
+      "Turnamen 5 vs 5 yang menuntut strategi tim, komunikasi, dan eksekusi tepat dalam meraih kemenangan di arena Land of Dawn.",
     contact: "https://wa.me/6289531671507",
     name: "Ryan",
   },
   {
     title: "Web Design",
     description:
-      "Kompetisi Web Design Tingkat SMA/Sederajat",
+      "Tantangan kreativitas untuk merancang dan mempresentasikan tampilan situs web yang menarik, fungsional, dan responsif sesuai kebutuhan user.",
     contact: "https://wa.me/6281905318471",
     name: "Fathur",
   },
   {
     title: "CCInformatika",
     description:
-      "Kompetisi Cerdas Cermat Informatika tingkat SMA/Sederajat",
+      "Kompetisi kuis berkelompok yang mengasah kecepatan dan ketepatan menjawab soal-soal seputar bidang Informatika.",
     contact: "https://wa.me/6285215319829",
     name: "Farrell",
   },
