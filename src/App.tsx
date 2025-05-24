@@ -197,61 +197,79 @@ export default function EventPage() {
               <h2>Ketentuan Umum</h2>
               <ul>
                 <li>
-                  Peserta yang diizinkan untuk mendaftar dalam ajang 8
-                  Technology Festival atau T8chnofest merupakan siswa/i aktif
-                  SMP/Sederajat atau SMA/Sederajat, kecuali cabang lomba Cerdas
-                  Cermat yang hanya diperuntukkan untuk siswa/i aktif
-                  SMA/Sederajat.
+                  Peserta 8 Technology Festival atau T8chnofest merupakan siswa/i aktif <b>SMP/MTs/Sederajat</b> atau <b>SMA/SMK/MA/Sederajat</b>, kecuali cabang lomba Cerdas Cermat yang hanya diperuntukkan untuk siswa/i aktif <b>SMA/Sederajat</b>.
                 </li>
                 <li>
-                  Peserta mendaftarkan diri pada formulir yang tertera pada link
-                  berikut: LINK FORMULIR.
+                  Peserta mendaftarkan diri pada formulir berikut: <a
+                    href="https://forms.gle/jZT3F2AyxBfFpGsn9"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    https://forms.gle/jZT3F2AyxBfFpGsn9
+                  </a>
                 </li>
                 <li>
-                  Peserta lomba wajib menunjukkan bukti kartu pelajar atau surat
-                  keterangan dari sekolah asal pada formulir pendaftaran.
+                  Peserta <b className="text-tex-crimson-500">WAJIB</b> menunjukkan <b>kartu pelajar</b> atau <b>surat keterangan dari sekolah asal</b> pada formulir pendaftaran.
                 </li>
                 <li>
-                  Peserta membayar biaya pendaftaran dengan rincian sebagai
-                  berikut:
+                  Nama tim (seluruh cabang lomba) dan nickname (Mobile Legends) <b className="text-tex-crimson-500">DILARANG</b> mengandung unsur <b>SARA</b> (Suku, Agama, Ras, dan Antargolongan) dan/atau <b>pornografi</b>.
+                </li>
+                <li>
+                  Peserta membayar biaya pendaftaran dengan rincian sebagai berikut:
                   <br />
-                  E-Sports Mobile Legends: Rp100.000,00.
+                  Mobile Legends: Rp100.000,00
                   <br />
-                  Web Design: Rp65.000,00.
+                  Web Design: Rp65.000,00
                   <br />
-                  Cerdas Cermat Informatika: Rp75.000,00.
+                  Cerdas Cermat Informatika: Rp75.000,00
                 </li>
                 <li>
-                  Peserta lomba wajib memasuki grup WhatsApp yang diberikan pada
-                  saat selesai melakukan pendaftaran.
+                  Tidak ada pengembalian uang (<i>no refund</i>) jika peserta mengundurkan diri.
                 </li>
                 <li>
-                  Peserta hanya diperbolehkan mengikuti satu cabang lomba.
+                  Ketua tim <b className="text-tex-crimson-500">WAJIB</b> memasuki grup WhatsApp yang diberikan pada saat selesai melakukan pendaftaran.
                 </li>
                 <li>
-                  Peserta mengikuti ketentuan sesuai cabang lomba masing-masing.
+                  Peserta hanya diperbolehkan mengikuti <b>1 (satu) cabang lomba</b>.
                 </li>
                 <li>
-                  Peserta dilarang melakukan segala bentuk pelanggaran. Jika
-                  ditemukan tim/peserta yang melakukan pelanggaran, maka peserta
-                  bersedia menerima konsekuensi yang ditentukan oleh panitia,
-                  termasuk didiskualifikasi.
+                  Tim yang sudah terdaftar <b className="text-tex-crimson-500">TIDAK DAPAT</b> menggantikan anggotanya. Jika salah satu anggota berhalangan hadir ketika perlombaan berlangsung, maka anggota tersebut <b className="text-tex-crimson-500">TIDAK DAPAT DIWAKILKAN</b> oleh orang lain, kecuali cabang lomba Mobile Legends yang memiliki anggota cadangan.
                 </li>
                 <li>
-                  Pelaksanaan seluruh cabang lomba akan dilaksanakan di SMA
-                  Negeri 8 Jakarta.
+                  Peserta <b className="text-tex-crimson-500">WAJIB</b> mengikuti ketentuan sesuai cabang lomba masing-masing.
                 </li>
                 <li>
-                  Segala keputusan panitia T8chnofest bersifat mutlak dan tidak
-                  dapat diganggu gugat.
+                  Seluruh cabang lomba akan dilaksanakan secara <b>offline</b> di SMA Negeri 8 Jakarta.
                 </li>
                 <li>
-                  Informasi tambahan akan diumumkan oleh panitia baik di grup WA
-                  maupun langsung on site.
+                  Peserta <b className="text-tex-crimson-500">DILARANG</b> membawa barang/properti yang dapat mengganggu jalannya perlombaan (peluit, terompet, dan sebagainya).
                 </li>
                 <li>
-                  Untuk informasi lebih lanjut dapat menghubungi WA
-                  0878-8282-9131 atas nama Henokh Dava Kainama.
+                  Peserta <b className="text-tex-crimson-500">WAJIB</b> menjaga <i>attitude</i> yang baik kepada panitia maupun kepada peserta lainnya.
+                </li>
+                <li>
+                  Peserta <b className="text-tex-crimson-500">WAJIB</b> menjunjung tinggi sikap <b>sportif</b> dan <b>adil</b>.
+                </li>
+                <li>
+                  Peserta <b className="text-tex-crimson-500">DILARANG</b> melakukan tindakan provokatif dalam bentuk apa pun.
+                </li>
+                <li>
+                  Panitia <b className="text-tex-crimson-500">TIDAK MENYEDIAKAN</b> wifi maupun kuota internet.
+                </li>
+                <li>
+                  Segala bentuk kelalaian yang disebabkan oleh peserta adalah <b>di luar tanggung jawab panitia</b> (error device, koneksi internet, dan sebagainya).
+                </li>
+                <li>
+                  Peserta <b className="text-tex-crimson-500">DILARANG</b> melakukan segala bentuk pelanggaran. Jika ditemukan tim/peserta yang melakukan pelanggaran, maka peserta bersedia menerima konsekuensi yang ditentukan oleh panitia, termasuk <b className="text-tex-crimson-500">DIDISKUALIFIKASI</b>.
+                </li>
+                <li>
+                  Segala keputusan panitia T8chnofest bersifat <b className="text-tex-crimson-500">MUTLAK</b> dan <b className="text-tex-crimson-500">TIDAK DAPAT DIGANGGU GUGAT</b>.
+                </li>
+                <li>
+                  Informasi tambahan akan diumumkan oleh panitia baik di grup WA maupun langsung on site.
+                </li>
+                <li>
+                  Untuk informasi lebih lanjut dapat menghubungi <b>contact person</b> yang tertera pada website ini.
                 </li>
               </ul>
               <h2>Ketentuan Pendaftaran</h2>
@@ -261,240 +279,60 @@ export default function EventPage() {
                   Linktree.
                 </li>
                 <li>
-                  Ketua tim melakukan pembayaran via transfer ke rekening XXXXX
-                  atas nama XXX. Kemudian, bukti pembayaran diupload ke formulir
+                  Ketua tim melakukan pembayaran via transfer ke rekening <b>006-00-1315318-8 (Mandiri)</b> 
+                  atas nama <b>Ahmad Kautsar Ar-Ridho</b>. Kemudian, bukti pembayaran diupload ke formulir
                   pendaftaran.
                 </li>
                 <li>
-                  Setelah mengisi formulir pendaftaran, ketua tim memasuki
-                  WhatsApp group melalui link yang tertera di formulir
+                  Setelah mengisi formulir pendaftaran, <b>ketua tim memasuki grup Whatsapp </b>
+                   melalui link yang tertera di formulir
                   pendaftaran. Hanya ketua tim yang diperkenankan untuk memasuki
                   group.
                 </li>
+              </ul>
+              <h2>Teknis Registrasi Ulang</h2>
+              <ul>
+                <li>Seluruh tim <b>wajib</b> datang ke <i>booth</i> di SMAN 8 Jakarta pada saat hari-H perlombaan untuk registrasi ulang.</li>
+                <li>Setiap anggota tim <b>wajib</b> menandatangani registrasi ulang.</li>
+                <li>Jika terdapat anggota yang belum menandatangani registrasi ulang, maka tim tersebut belum diperbolehkan mengikuti Tournament.</li>
+                <li>Jika terdapat tim yang seluruh anggotanya belum melakukan registrasi ulang hingga batas waktu yang sudah ditentukan panitia, maka tim tersebut otomatis <b className="text-crimson-500">DIDISKUALIFIKASI</b>.</li>
               </ul>
             </TabsContent>
             <TabsContent
               value="mobile-legends"
               className="prose prose-zinc prose-sm md:prose-base max-w-none rounded-lg p-6 pt-4"
             >
-              <h2>Sistem Pendaftaran</h2>
-              <ul>
-                <li>
-                  Setiap ketua tim wajib memasuki grup whatsapp yang sudah
-                  disediakan setelah pendaftaran.
-                </li>
-                <li>
-                  Pengundian bracket/urutan pertandingan akan dilaksanakan saat
-                  Technical Meeting.
-                </li>
-                <li>
-                  Tim yang sudah terdaftar tidak dapat mengubah anggotanya
-                  (roster lock).
-                </li>
-              </ul>
-
-              <h2>Sistem Registrasi Ulang</h2>
-              <ul>
-                <li>
-                  Seluruh tim <b>wajib</b> datang ke booth untuk registrasi
-                  ulang.
-                </li>
-                <li>
-                  Setiap anggota tim <b>wajib</b> menandatangani registrasi
-                  ulang.
-                </li>
-                <li>
-                  Jika terdapat anggota yang belum menandatangani registrasi
-                  ulang maka tim tersebut belum diperbolehkan mengikuti
-                  Tournament.
-                </li>
-                <li>
-                  Jika terdapat tim yang seluruh anggotanya belum melakukan
-                  registrasi ulang hingga batas waktu yang sudah ditentukan
-                  panitia, maka tim tersebut otomatis{" "}
-                  <b className="text-crimson-500">DIDISKUALIFIKASI</b>.
-                </li>
-              </ul>
-
-              <h2>Sistem Pertandingan</h2>
-              <ul>
-                <li>
-                  Seluruh pertandingan akan dilaksanakan secara offline di SMA
-                  Negeri 8 Jakarta.
-                </li>
-                <li>
-                  Penentuan <i>first/second pick</i> akan ditentukan pada
-                  bracket, jika tim berada di atas bracket maka tim tersebut
-                  first pick.
-                </li>
-              </ul>
-
-              <h2>Peraturan Nickname & ID</h2>
-              <ul>
-                <li>
-                  Nickname peserta tidak boleh mengandung unsur SARA (Suku Ras
-                  Agama dan Antar Golongan).
-                </li>
-                <li>
-                  Roster yang bermain harus menggunakan akun dengan ID yang sama
-                  terdaftar (pemain yang menggunakan ID yang berbeda maka
-                  dilarang bermain pada pertandingan).
-                </li>
-              </ul>
-
               <h2>Peraturan Umum Tournament</h2>
               <ul>
-                <li>
-                  Setiap tim memiliki jumlah pemain <b>minimal</b> sebanyak 5
-                  orang (diperbolehkan membawa 1 pemain cadangan).
-                </li>
-                <li>
-                  Anggota tim{" "}
-                  <b>wajib berstatus pelajar SMP/SMA/SMK/MA/sederajat</b>.
-                </li>
-                <li>
-                  Anggota tim yang sudah terdaftar{" "}
-                  <b>tidak boleh mendaftar di tim lain</b> (no multi slot).
-                </li>
-                <li>
-                  Turnamen ini dikhususkan untuk Student Amatir.{" "}
-                  <b>
-                    Pro Player dan Ex Pro Player tidak diperkenankan mengikuti
-                    cabang lomba ini
-                  </b>{" "}
-                  (Pro Player & Ex Pro Player adalah pemain yang pernah
-                  berkontrak resmi dengan suatu organisasi apapun untuk
-                  kebutuhan bermain kepada Tim Esport dan telah bermain di
-                  kompetisi pro seperti MPL/MDL)
-                </li>
-                <li>Mode Game yang dimainkan adalah draft pick.</li>
-                <li>
-                  Penggunaan program ilegal (cheating) dalam bentuk apapun akan
-                  dikenakan hukuman{" "}
-                  <b className="text-crimson-500">BAN PERMANEN</b> baik itu ID,
-                  device, dan hak keikutsertaan.
-                </li>
-                <li>
-                  Seluruh peserta <b>dilarang</b> membawa barang/properti yang
-                  dapat mengganggu jalannya pertandingan (peluit, terompet, dan
-                  lainnya).
-                </li>
-                <li>
-                  Seluruh peserta <b>wajib</b> menjunjung tinggi sikap{" "}
-                  <b>sportif</b> dan <b>adil</b> (tidak taunting secara
-                  berlebihan).
-                </li>
-                <li>
-                  Setiap tim akan mendapatkan jatah <b>pause</b> sebanyak dua
-                  kali (sistem <b>pause </b>hanya berlaku jika tidak ada{" "}
-                  <b>war</b> yang berlangsung saat pertandingan berjalan).
-                </li>
-                <li>
-                  Seluruh peserta{" "}
-                  <b>
-                    dilarang menggunakan BUG apapun yang merugikan maupun
-                    menguntungkan kedua belah pihak
-                  </b>
-                  .
-                </li>
-                <li>
-                  Panitia <b>tidak menyediakan wifi</b> maupun{" "}
-                  <b>kuota internet</b>.
-                </li>
-                <li>
-                  Seluruh pertandingan akan di <b>spectate</b> oleh panitia.
-                </li>
-                <li>
-                  Segala bentuk kelalaian yang disebabkan oleh peserta adalah{" "}
-                  <b>di luar tanggung jawab panitia</b> (Error device, koneksi
-                  internet, dan lainnya)
-                </li>
+                <li>Setiap tim memiliki jumlah pemain sebanyak <b>5 orang</b> (diperbolehkan membawa <b>1 pemain cadangan</b>).</li>
+                <li>Anggota tim yang sudah terdaftar <b>tidak boleh mendaftar di tim lain (<i>no multi slot</i>)</b>.</li>
+                <li>Turnamen ini dikhususkan untuk Student Amatir. <b>Pro Player</b> dan <b>Ex Pro Player</b> tidak diperkenankan mengikuti cabang lomba ini (<b>Pro Player & Ex Pro Player</b> adalah pemain yang pernah berkontrak resmi dengan suatu organisasi apapun untuk kebutuhan bermain kepada Tim Esport dan telah bermain di kompetisi pro seperti MPL/MDL).</li>
+                <li>Roster yang bermain <b>WAJIB</b> menggunakan akun dengan ID yang sama terdaftar (pemain yang menggunakan ID yang berbeda <b>DILARANG</b> bermain pada pertandingan).</li>
+                <li>Pengundian bracket/urutan pertandingan akan dilaksanakan saat Technical Meeting.</li>
+                <li>Penentuan <i>first/second pick</i> akan ditentukan pada bracket, jika tim berada di atas bracket maka tim tersebut <i>first pick</i>.</li>
+                <li>Mode Game yang dimainkan adalah <b>Draft Pick</b>.</li>
+                <li>Penggunaan program ilegal (<i>cheating</i>) dalam bentuk apapun akan dikenakan hukuman <b>BAN PERMANEN</b> baik itu <i>ID, device,</i> maupun hak keikutsertaan.</li>
+                <li>Setiap tim akan mendapatkan jatah <i>pause</i> sebanyak dua kali (sistem <i>pause</i> hanya berlaku jika tidak ada <i>war</i> yang berlangsung saat pertandingan berjalan).</li>
+                <li>Seluruh peserta <b>DILARANG menggunakan <i>BUG</i> apapun yang merugikan maupun menguntungkan kedua belah pihak</b>.</li>
+                <li>Seluruh pertandingan akan di-<i>spectate</i> oleh panitia.</li>
               </ul>
-
               <h2>Before-After Match</h2>
               <ul>
-                <li>
-                  Seluruh peserta <b>wajib</b> menjaga <i>attitude</i> yang baik
-                  kepada panitia maupun kepada peserta lainnya.
-                </li>
-                <li>
-                  Setiap peserta dan seluruh tim wajib hadir dan menunggu di
-                  ruang tunggu yang sudah disediakan.
-                </li>
-                <li>
-                  Setiap tim akan dipanggil oleh panitia saat <i>match</i> akan
-                  berlangsung.
-                </li>
-                <li>
-                  Ketentuan jika terdapat anggota tim yang belum hadir pada
-                  jadwal pertandingan yang telah ditentukan maka pertandingan
-                  tersebut akan dipindahkan ke jam <i>slot</i> berikutnya. Jika
-                  setelah diundur tim tersebut masih belum lengkap/tidak dapat
-                  hadir maka tim tersebut{" "}
-                  <b className="text-crimson-500">DIDISKUALIFIKASI</b>.
-                </li>
-                <li>
-                  Sebelum <i>match</i> dimulai setiap kapten tim wajib
-                  memberikan ID <i>account</i> dirinya sendiri ke panitia.
-                </li>
-                <li>
-                  <i>Room Custom Mode</i> akan dibuat oleh panitia, sehingga
-                  cukup kapten tim yang memasuki <i>match room</i>.
-                </li>
-                <li>
-                  <b>Tidak</b> diperbolehkan adanya{" "}
-                  <b>
-                    <i>observer</i>
-                  </b>{" "}
-                  di dalam ruangan pertandingan maupun <i>Custom Room</i>,
-                  kecuali dari pihak panitia.
-                </li>
-                <li>
-                  Pergantian pemain diperbolehkan sebelum <i>match</i> dimulai
-                  dan <b>hanya</b> diizinkan mengganti pemain dengan pemain
-                  cadangan atau <i>roster</i> yang sudah <b>terdaftar</b>.
-                </li>
-                <li>
-                  Seluruh peserta <b>dilarang</b> melakukan <i>taunting</i> yang
-                  berlebihan, lakukan taunting yang <i>sewajarnya</i>{" "}
-                  <i>(NO RADIO ALL & NO CHAT ALL)</i>.
-                </li>
-                <li>
-                  Pelanggaran format turnamen akan diberikan satu kali{" "}
-                  <b>peringatan</b> atau{" "}
-                  <b className="text-crimson-500">diskualifikasi</b> secara
-                  langsung.
-                </li>
-                <li>
-                  Seluruh keputusan dari panitia bersifat <b>MUTLAK</b>.
-                </li>
-                <li>
-                  Setiap tim membayar biaya total Rp 100.000,00 dengan rincian
-                  Rp 60.000,00 untuk biaya operasional dan Rp 40.000,00 untuk
-                  uang jaminan. Uang jaminan akan dikembalikan ketika
-                  pelaksanaan perlombaan.
-                </li>
-                <li>
-                  Tidak ada pengembalian uang (<i>refund</i>) jika tim
-                  mengundurkan diri.
-                </li>
-                <li>
-                  Babak penyisihan akan menggunakan format BO3 (<i>Best of 3</i>
-                  ) dan final akan menggunakan BO5 (<i>Best of 5</i>)
-                </li>
-                <li>
-                  Setiap sekolah diperbolehkan mengirimkan lebih dari satu tim
-                </li>
+                <li>Setiap peserta dan seluruh tim <b>WAJIB</b> hadir dan menunggu di ruang tunggu yang sudah disediakan.</li>
+                <li>Setiap tim akan dipanggil oleh panitia saat <i>match</i> akan berlangsung.</li>
+                <li>Jika terdapat anggota tim yang belum hadir pada jadwal pertandingan yang telah ditentukan, maka pertandingan tersebut akan dipindahkan ke <i>slot</i> jam berikutnya. Jika setelah diundur tim tersebut masih belum lengkap/tidak dapat hadir, maka tim tersebut <b className="text-crimson-500">DIDISKUALIFIKASI</b>.</li>
+                <li>Sebelum <i>match</i> dimulai setiap kapten tim <b>WAJIB</b> memberikan ID <i>account</i> dirinya sendiri ke panitia.</li>
+                <li><i>Room Custom Mode</i> akan dibuat oleh panitia, sehingga cukup kapten tim yang memasuki <i>match</i> <i>room</i>.</li>
+                <li><b>Tidak</b> diperbolehkan adanya <i>observer</i> di dalam ruangan pertandingan maupun <i>Custom Room</i>, kecuali dari pihak panitia.</li>
+                <li>Pergantian pemain diperbolehkan sebelum <i>match</i> dimulai dan <b>hanya</b> diizinkan mengganti pemain dengan pemain cadangan atau <i>roster</i> yang sudah <b>terdaftar</b>.</li>
+                <li>Setiap peserta hanya diizinkan untuk melakukan <i>taunting</i> sebanyak <b>3 kali</b> per <i>match</i>. Jika lebih dari 3 kali, maka peserta tersebut <b className="text-crimson-500">tidak diizinkan untuk berpartisipasi</b> di match berikutnya. Tim yang mendapati 2 pesertanya melanggar aturan ini otomatis akan <b className="text-crimson-500">DIDISKUALIFIKASI</b>.</li>
+                <li>Diberlakukan <b>NO RADIO ALL & NO CHAT ALL</b>.</li>
+                <li>Pelanggaran format turnamen akan diberikan satu kali <b>peringatan</b> atau <b className="text-crimson-500">diskualifikasi</b> secara langsung.</li>
+                <li>Setiap tim membayar biaya total Rp 100.000,00 dengan rincian Rp 60.000,00 untuk biaya operasional dan Rp 40.000,00 untuk uang jaminan. Uang jaminan akan dikembalikan ketika pelaksanaan perlombaan.</li>
+                <li>Babak penyisihan akan menggunakan format BO3 (<i>Best of 3</i>) dan <i>final</i> akan menggunakan BO5 (<i>Best of 5</i>).</li>
+                <li>Setiap sekolah diperbolehkan mengirimkan lebih dari satu tim.</li>
                 <li>Peserta diperbolehkan membawa suporter saat bertanding.</li>
-                <li>
-                  Tim yang belum hadir sesuai dengan jadwal pertandingan yang
-                  telah ditentukan (bahkan setelah ada toleransi pengunduran
-                  jadwal) akan langsung dianggap gugur atau{" "}
-                  <i>
-                    <b>Walk Out</b>
-                  </i>
-                  .
-                </li>
+                <li>Tim yang belum hadir sesuai dengan jadwal pertandingan yang telah ditentukan (bahkan setelah ada toleransi pengunduran jadwal) akan langsung dianggap gugur atau <i>Walk Out</i>.</li>
               </ul>
             </TabsContent>
             <TabsContent
@@ -503,95 +341,30 @@ export default function EventPage() {
             >
               <h2>Persyaratan Peserta</h2>
               <ul>
-                <li>
-                  Peserta merupakan siswa aktif SMA/MA/sederajat se-Jabodetabek
-                </li>
-                <li>
-                  Kompetisi bersifat kelompok yang terdiri dari 1 - 3 orang
-                </li>
-                <li>
-                  Setiap tim hanya diperbolehkan mengirim{" "}
-                  <b>maksimal 1 karya</b>
-                </li>
-                <li>Peserta melakukan pendaftaran melalui linktree</li>
-                <li>
-                  Setiap tim membayar biaya total 65.000 dengan rincian 40.000
-                  untuk biaya operasional dan 25.000 untuk uang jaminan
-                </li>
-                <li>
-                  Uang jaminan akan dikembalikan ketika pelaksanaan perlombaan
-                </li>
-                <li>
-                  Tidak ada pengembalian uang (<i>refund</i>) jika tim
-                  mengundurkan diri
-                </li>
-                <li>
-                  Peserta wajib memahami dan menyepakati seluruh syarat lomba.
-                </li>
-                <li>
-                  Peserta yang lolos final wajib mengikuti seluruh rangkaian
-                  kegiatan lomba
-                </li>
+                <li>Kompetisi bersifat kelompok yang terdiri dari <b>1 - 3 orang</b>.</li>
+                <li>Setiap tim hanya diperbolehkan mengirim <b>maksimal 1 karya</b>.</li>
+                <li>Setiap tim membayar biaya total 65.000 dengan rincian 40.000 untuk biaya operasional dan 25.000 untuk uang jaminan.</li>
+                <li>Uang jaminan akan dikembalikan ketika pelaksanaan perlombaan.</li>
               </ul>
-
-              <h2>
-                Ketentuan Pembuatan <i>Website</i>
-              </h2>
+              <h2>Ketentuan Pembuatan <i>Website</i></h2>
               <ul>
-                <li>
-                  Bentuk <i>website</i> yang dibuat merupakan <i>website</i>{" "}
-                  statis
-                </li>
-                <li>
-                  <i>Website</i> dapat berupa <i>website</i> sekolah,
-                  jurnalistik, atau perorangan (<i>Personal Website</i>)
-                </li>
-                <li>
-                  Teknik pembuatan <i>website</i> bebas, namun dilarang
-                  menggunakan sistem <i>drag and drop</i> dalam pembuatan
-                  website.
-                </li>
-                <li>
-                  <i>Website</i> tidak boleh mengandung unsur SARA, pornografi,
-                  dan/atau melanggar hak cipta
-                </li>
-                <li>
-                  <i>Website</i> dikumpulkan dalam bentuk File ZIP
-                </li>
-                <li>
-                  Keputusan panitia bersifat final dan mutlak (tidak dapat
-                  diganggu gugat)
-                </li>
-                <li>
-                  Hosting website <b>tidak diwajibkan</b>. Presentasi dilakukan
-                  pada komputer peserta lomba
-                </li>
-                <li>
-                  Kecuali sistem <i>drag and drop</i>, bahasa pemrograman
-                  dibebaskan, namun akan dinilai dengan nilai yang berbeda
-                  sesuai tingkat kesulitan bahasanya
-                </li>
+                <li>Bentuk <i>website</i> yang dibuat merupakan <b>website statis</b>.</li>
+                <li><i>Website</i> dapat berupa <b>website sekolah, jurnalistik, atau perorangan (<i>Personal Website</i>)</b>.</li>
+                <li>Teknik pembuatan <i>website</i> bebas, namun <b className="text-crimson-500">DILARANG</b> menggunakan sistem drag and drop dalam pembuatan website.</li>
+                <li><i>Website</i> <b className="text-crimson-500">DILARANG</b> mengandung unsur <b>SARA</b>, <b>pornografi</b>, dan/atau <b>melanggar hak cipta</b>.</li>
+                <li><i>Website</i> dikumpulkan dalam bentuk File ZIP.</li>
+                <li>Hosting website <b>tidak diwajibkan</b>.</li>
+                <li>Presentasi dilakukan menggunakan device masing-masing peserta.</li>
+                <li>Kecuali sistem drag and drop, bahasa pemrograman dibebaskan, namun akan dinilai dengan nilai yang berbeda sesuai tingkat kesulitan bahasanya.</li>
               </ul>
-
               <h2>Kriteria Penilaian</h2>
               <ul>
                 <li>Orisinalitas</li>
                 <li>Kebermanfaatan</li>
                 <li>Kreativitas</li>
-                <li>
-                  <i>User Interface</i> (UI)
-                </li>
-                <li>
-                  Bahasa pemrograman (semakin susah bahasa pemrograman yang
-                  digunakan, semakin besar nilainya)
-                </li>
-                <li>
-                  Kemampuan Presentasi
-                  <br />
-                  Mempresentasikan hasil web design-nya dan menjelaskan latar
-                  belakang pemilihan <i>design</i>, tujuan pemilihan{" "}
-                  <i>design</i>, dan manfaat yang didapatkan
-                </li>
+                <li><i>User Interface</i> (UI)</li>
+                <li>Bahasa pemrograman (semakin kompleks bahasa pemrograman yang digunakan, semakin besar nilainya)</li>
+                <li>Kemampuan Presentasi: Mempresentasikan hasil <i>web design</i>-nya dengan menjelaskan latar belakang pemilihan <i>design</i>, tujuan pemilihan <i>design</i>, manfaat yang didapatkan, serta demonstrasi <i>design</i></li>
               </ul>
             </TabsContent>
             <TabsContent
@@ -600,160 +373,62 @@ export default function EventPage() {
             >
               <h2>Petunjuk Umum</h2>
               <ul>
-                <li>
-                  Setiap tim terdiri dari 3 (tiga) orang. Jika ada anggota tim
-                  yang berhalangan hadir, maka anggota tersebut tidak bisa
-                  digantikan.
-                </li>
-                <li>
-                  Cabang Lomba CCI (Cerdas Cermat Informatika) dilaksanakan
-                  dalam 3 (tiga) babak: Penyisihan, Semifinal, dan Grand Final.
-                </li>
-                <li>
-                  Setiap peserta dilarang untuk menggunakan alat bantu hitung
-                  dalam bentuk apapun.
-                </li>
-                <li>
-                  Selain kepada rekan satu timnya, setiap peserta dilarang untuk
-                  meminta bantuan ataupun bekerja sama dengan siapapun.
-                </li>
-                <li>
-                  Dilarang keras mendokumentasikan soal dan/atau
-                  menyebarluaskannya tanpa izin tertulis dari panitia.
-                </li>
+                <li>Kompetisi bersifat kelompok yang terdiri dari <b>maksimal 3 orang</b>.</li>
+                <li>Cabang Lomba CCI (Cerdas Cermat Informatika) dilaksanakan dalam 3 (tiga) babak: <b>Penyisihan, Semifinal, dan Grand Final</b>.</li>
+                <li><b className="text-crimson-500">DILARANG</b> menggunakan alat bantu hitung dalam bentuk apapun.</li>
+                <li><b className="text-crimson-500">DILARANG</b> untuk meminta bantuan ataupun bekerja sama dengan siapapun selain kepada rekan satu tim.</li>
+                <li><b className="text-crimson-500">DILARANG KERAS</b> mendokumentasikan soal dan/atau menyebarluaskannya tanpa izin tertulis dari panitia.</li>
               </ul>
 
-              <h2>Petunjuk Teknis Babak Penyisihan</h2>
+              <h2>B. Petunjuk Teknis Babak Penyisihan</h2>
               <ul>
-                <li>
-                  Babak Penyisihan CCI akan dilaksanakan melalui suatu platform
-                  kuis online.
-                </li>
-                <li>
-                  Setiap tim wajib membawa laptop atau tablet untuk mengerjakan
-                  soal.
-                </li>
-                <li>
-                  Panitia tidak menyediakan wifi dan kuota internet. Oleh karena
-                  itu, setiap tim diharuskan untuk menyediakan hotspot untuk
-                  timnya. Gawai yang digunakan sebagai hotspot tersebut
-                  diletakkan di sudut depan meja masing-masing dengan posisi
-                  layar menghadap meja.
-                </li>
-                <li>
-                  Dilarang membawa perangkat elektronik selain laptop/tablet
-                  untuk mengerjakan soal dan gawai sebagai hotspot.
-                </li>
-                <li>
-                  Soal babak penyisihan terdiri dari 30 soal pilihan ganda dan
-                  10 soal isian singkat yang memiliki poin sesuai dengan
-                  ketepatan dan kecepatan menjawab.
-                </li>
-                <li>
-                  Dilarang membuka dan/atau beralih ke tab dan/atau aplikasi
-                  lain saat mengerjakan soal kecuali platform pengerjaan soal.
-                </li>
-                <li>Durasi pengerjaan soal ialah selama 60 menit.</li>
-                <li>
-                  Ketika waktu habis, semua peserta harus mengangkat kedua
-                  tangan ke atas dan menunggu aba-aba selanjutnya dari panitia.
-                </li>
-                <li>
-                  Tim yang lolos ke Babak Semifinal ialah 9 (sembilan) tim
-                  dengan perolehan poin tertinggi dari hasil pengerjaan soal
-                  Babak Penyisihan.
-                </li>
+                <li>Babak Penyisihan CCI akan dilaksanakan melalui suatu platform kuis online yang akan diinformasikan pada hari-H perlombaan.</li>
+                <li>Setiap tim <b className="text-crimson-500">WAJIB</b> membawa <b>laptop atau tablet</b> (salah satu) untuk mengerjakan soal.</li>
+                <li>Panitia tidak menyediakan wifi dan kuota internet. Oleh karena itu, setiap tim <b className="text-crimson-500">WAJIB</b> menyediakan <b>hotspot</b> untuk timnya. Gawai yang digunakan sebagai hotspot tersebut diletakkan di sudut depan meja masing-masing dengan posisi layar menghadap meja.</li>
+                <li><b className="text-crimson-500">DILARANG</b> membawa perangkat elektronik selain yang telah disebutkan.</li>
+                <li>Soal babak penyisihan terdiri dari <b>30 soal pilihan ganda</b> dan <b>10 soal isian singkat</b> yang memiliki <b>poin sesuai dengan ketepatan dan kecepatan menjawab</b>.</li>
+                <li><b className="text-crimson-500">DILARANG</b> membuka dan/atau beralih ke tab dan/atau aplikasi lain saat mengerjakan soal kecuali platform pengerjaan soal.</li>
+                <li>Durasi pengerjaan soal selama <b>60 menit</b>.</li>
+                <li>Ketika waktu habis, semua peserta harus mengangkat kedua tangan ke atas dan menunggu aba-aba selanjutnya dari panitia.</li>
+                <li>Tim yang lolos ke Babak Semifinal ialah <b>9 (sembilan) tim dengan perolehan poin tertinggi</b> dari hasil pengerjaan soal Babak Penyisihan.</li>
               </ul>
 
-              <h2>Petunjuk Teknis Babak Semifinal</h2>
+              <h2>C. Petunjuk Teknis Babak Semifinal</h2>
               <ul>
-                <li>
-                  Tim-tim yang lolos ke Babak Semifinal akan dibagi ke dalam 3
-                  kloter. Pembagian kloter akan ditentukan secara acak oleh
-                  panitia.
-                </li>
-                <li>
-                  Babak Semifinal akan dilaksanakan dalam 2 (dua) Sesi, yaitu
-                  Sesi Wajib dan Sesi Rebutan.
-                </li>
-                <li>
-                  Sebelum kedua sesi dilaksanakan, setiap tim akan diminta untuk
-                  memeriksa apakah sistem tombolnya bekerja dengan menekan
-                  tombolnya masing-masing.
-                </li>
+                <li>Tim-tim yang lolos ke Babak Semifinal akan dibagi ke dalam <b>3 kloter</b>. Pembagian kloter akan ditentukan secara acak oleh panitia.</li>
+                <li>Babak Semifinal akan dilaksanakan dalam 2 (dua) Sesi, yaitu <b>Sesi Wajib dan Sesi Rebutan</b>.</li>
+                <li>Sebelum kedua sesi dilaksanakan, setiap tim akan diminta untuk memeriksa apakah sistem tombolnya bekerja dengan menekan tombolnya masing-masing.</li>
               </ul>
-              <p>Peraturan Sesi Wajib:</p>
+              <h3>Peraturan Sesi Wajib:</h3>
               <ul>
-                <li>
-                  Penentuan urutan pemilihan paket soal adalah sebagai berikut:
-                  urutan 1 adalah tim yang memiliki perolehan poin tertinggi di
-                  antara ketiga tim, urutan 2 adalah tim yang memiliki perolehan
-                  poin kedua tertinggi di antara ketiga tim, urutan 3 adalah tim
-                  yang memiliki perolehan poin terendah di antara ketiga tim.
-                </li>
-                <li>
-                  Setiap paket terdiri dari 5 soal yang akan diberikan kepada
-                  tim yang memilih paket soal tersebut.
-                </li>
-                <li>
-                  Setiap soal yang diberikan kepada tim yang ditujukan harus
-                  dijawab dalam durasi 15 detik.
-                </li>
-                <li>
-                  Jika menjawab dengan benar, maka tim tersebut akan memperoleh
-                  +20 poin.
-                </li>
-                <li>
-                  Jika menjawab dengan salah atau waktu habis, maka soal
-                  tersebut hangus bagi tim yang ditujukan dan akan dilempar ke
-                  tim lain. Tim pertama yang menekan bel berhak untuk menjawab
-                  soal tersebut dengan ketentuan yang sama.
-                </li>
+                <li>Penentuan urutan pemilihan paket soal adalah sebagai berikut: urutan 1 adalah tim yang memiliki perolehan poin tertinggi di antara ketiga tim, urutan 2 adalah tim yang memiliki perolehan poin kedua tertinggi di antara ketiga tim, urutan 3 adalah tim yang memiliki perolehan poin terendah di antara ketiga tim.</li>
+                <li>Setiap paket terdiri dari <b>5 soal</b> yang akan diberikan kepada tim yang memilih paket soal tersebut.</li>
+                <li>Setiap soal yang diberikan kepada tim yang ditujukan harus dijawab dalam durasi <b>30 detik</b>.</li>
+                <li>Jika menjawab dengan benar, maka tim tersebut akan memperoleh <b>+20 poin</b>.</li>
+                <li>Jika menjawab dengan salah atau waktu habis, maka soal tersebut hangus bagi tim yang ditujukan dan akan <b>dilempar ke tim lain</b>. Tim pertama yang menekan bel berhak untuk menjawab soal tersebut dengan ketentuan yang sama.</li>
               </ul>
-              <p>Peraturan Sesi Rebutan:</p>
+              <h3>Peraturan Sesi Rebutan:</h3>
               <ul>
-                <li>
-                  Dalam Sesi Rebutan, terdapat 20 soal yang akan diperebutkan
-                  oleh ketiga tim.
-                </li>
-                <li>
-                  Tim pertama yang menekan bel berhak untuk menjawab soal yang
-                  diberikan dalam waktu 15 detik.
-                </li>
-                <li>
-                  Jika menjawab dengan tepat, maka tim tersebut akan memperoleh
-                  +30 poin.
-                </li>
-                <li>
-                  Jika menjawab dengan salah atau waktu habis, maka poin total
-                  tim tersebut akan berkurang sebanyak 10 poin dan soal akan
-                  dilempar ke tim lain. Tim pertama yang menekan bel berhak
-                  untuk menjawab soal tersebut dengan ketentuan yang sama.
-                </li>
-                <li>
-                  Jika tidak ada tim yang dapat menjawab soal dengan tepat, maka
-                  soal akan hangus.
-                </li>
-                <li>
-                  Di akhir Sesi Rebutan, akan dilakukan perhitungan poin. 1
-                  (satu) tim dengan perolehan poin tertinggi berhak untuk lanjut
-                  ke Babak Grand Final.
-                </li>
+                <li>Dalam Sesi Rebutan, terdapat <b>20 soal</b> yang akan diperebutkan oleh ketiga tim.</li>
+                <li>Tim pertama yang menekan bel berhak untuk menjawab soal yang diberikan dalam waktu <b>15 detik</b>.</li>
+                <li>Jika menjawab dengan tepat, maka tim tersebut akan memperoleh <b>+30 poin</b>.</li>
+                <li>Jika menjawab dengan salah atau waktu habis, maka poin total tim tersebut akan <b>berkurang sebanyak 10 poin</b> dan soal akan <b>dilempar ke tim lain</b>. Tim pertama yang menekan bel berhak untuk menjawab soal tersebut dengan ketentuan yang sama.</li>
+                <li>Jika tidak ada tim yang dapat menjawab soal dengan tepat, maka soal akan <b>hangus</b>.</li>
+                <li>Di akhir Sesi Rebutan, akan dilakukan perhitungan poin. <b>1 (satu) tim dengan perolehan poin tertinggi</b> berhak untuk lanjut ke Babak Grand Final.</li>
               </ul>
 
-              <h2>Petunjuk Teknis Babak Grand Final</h2>
-              <p>
-                Babak Grand Final akan dilaksanakan dalam 3 (tiga) Sesi, yaitu
-                Sesi Rebutan, Tic-tac-toe, dan Jeopardy. Petunjuk lebih lanjut
-                akan dijelaskan oleh panitia tepat sebelum Babak Grand Final
-                dilaksanakan.
-              </p>
+              <h2>D. Petunjuk Teknis Babak Grand Final</h2>
+              <p>Babak Grand Final akan dilaksanakan dalam 3 (tiga) Sesi, yaitu Sesi Rebutan, Tic-tac-toe, dan Jeopardy. Petunjuk lebih lanjut akan dijelaskan oleh panitia tepat sebelum Babak Grand Final dilaksanakan.</p>
 
-              <h2>Silabus</h2>
-              <p>
-                Silabus Cabang Lomba Cerdas Cermat Informatika (CCI) mengikuti
-                Silabus OSN-K Informatika.
-              </p>
+              <h2>E. Materi</h2>
+              <p>Materi Cabang Lomba Cerdas Cermat Informatika (CCI) mengikuti <b>Materi OSN-K Informatika</b> yang dapat diakses melalui link <a href="https://osn.toki.id/silabus/kota" target="_blank" rel="noopener noreferrer">https://osn.toki.id/silabus/kota</a> dengan tingkat kesulitan yang lebih rendah serta beberapa penambahan berikut:</p>
+              <ul>
+                <li>Dasar-dasar Pengembangan Web (HTML, CSS)</li>
+                <li>Jaringan Komputer dan Internet</li>
+                <li>Sejarah informatika</li>
+                <li>Profesi-profesi di bidang informatika</li>
+              </ul>
+              <p>Khusus untuk materi Pemahaman Algoritma, kode program akan diberikan dalam bahasa pemrograman <b>Python</b>.</p>
             </TabsContent>
           </Tabs>
         </div>
