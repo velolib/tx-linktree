@@ -349,7 +349,7 @@ export default function EventPage() {
               <h2>Ketentuan Pembuatan <i>Website</i></h2>
               <ul>
                 <li>Bentuk <i>website</i> yang dibuat merupakan <b>website statis</b>.</li>
-                <li><i>Website</i> dapat berupa <b>website sekolah, jurnalistik, atau perorangan (<i>Personal Website</i>)</b>.</li>
+                <li>Tema website bebas.</li>
                 <li>Teknik pembuatan <i>website</i> bebas, namun <b className="text-crimson-500">DILARANG</b> menggunakan sistem drag and drop dalam pembuatan website.</li>
                 <li><i>Website</i> <b className="text-crimson-500">DILARANG</b> mengandung unsur <b>SARA</b>, <b>pornografi</b>, dan/atau <b>melanggar hak cipta</b>.</li>
                 <li><i>Website</i> dikumpulkan dalam bentuk File ZIP.</li>
