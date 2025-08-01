@@ -89,7 +89,7 @@ export default function EventPage() {
             8 Technology Festival
           </h2>
           <p className="text-tx-800 mt-1 text-xs font-medium md:text-sm">
-            Dilaksanakan pada <b>9 & 16 Agustus</b>
+            Dilaksanakan pada <b>10 & 16 Agustus</b>
           </p>
 
           <p className="mt-3 text-sm font-medium md:text-base">
