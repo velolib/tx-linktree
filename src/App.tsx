@@ -424,14 +424,17 @@ export default function EventPage() {
               <p>Babak Grand Final akan dilaksanakan dalam 3 (tiga) Sesi, yaitu Sesi Rebutan, Tic-tac-toe, dan Jeopardy. Petunjuk lebih lanjut akan dijelaskan oleh panitia tepat sebelum Babak Grand Final dilaksanakan.</p>
 
               <h2>E. Materi</h2>
-              <p>Materi Cabang Lomba Cerdas Cermat Informatika (CCI) mengikuti <b>Materi OSN-K Informatika</b> yang dapat diakses melalui link <a href="https://osn.toki.id/silabus/kota" target="_blank" rel="noopener noreferrer">https://osn.toki.id/silabus/kota</a> dengan tingkat kesulitan yang lebih rendah serta beberapa penambahan berikut:</p>
+              <p>Materi Cabang Lomba Cerdas Cermat Informatika (CCI) mengikuti materi yang disajikan pada buku <i>Informatika untuk SMA Kelas X</i>, antara lain:</p>
               <ul>
-                <li>Dasar-dasar Pengembangan Web (HTML, CSS)</li>
+                <li>Informatika dan Keterampilan Generik</li>
+                <li>Berpikir Komputasional</li>
+                <li>Teknologi Informasi dan Komunikasi</li>
+                <li>Sistem Komputer</li>
                 <li>Jaringan Komputer dan Internet</li>
-                <li>Sejarah informatika</li>
-                <li>Profesi-profesi di bidang informatika</li>
+                <li>Analisis Data</li>
+                <li>Algoritma dan Pemrograman dalam Bahasa Pemrograman Python</li>
+                <li>Dampak Sosial Informatika</li>
               </ul>
-              <p>Khusus untuk materi Pemahaman Algoritma, kode program akan diberikan dalam bahasa pemrograman <b>Python</b>.</p>
             </TabsContent>
           </Tabs>
         </div>
