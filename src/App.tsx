@@ -62,7 +62,7 @@ const competitions = [
   {
     title: "CCInformatika",
     description:
-      "Kompetisi kuis berkelompok yang mengasah kecepatan dan ketepatan menjawab soal-soal seputar bidang Informatika.",
+      "Kompetisi kuis berkelompok yang mengasah kecepatan dan ketepatan menjawab soal-soal seputar bidang Informatika. (KHUSUS SMAN 8 JAKARTA)",
     contact: "https://wa.me/6285215319829",
     name: "Farrell",
   },
@@ -200,7 +200,7 @@ export default function EventPage() {
               <h2>Ketentuan Umum</h2>
               <ul>
                 <li>
-                  Peserta 8 Technology Festival atau T8chnofest merupakan siswa/i aktif <b>SMP/MTs/Sederajat</b> atau <b>SMA/SMK/MA/Sederajat</b>, kecuali cabang lomba Cerdas Cermat yang hanya diperuntukkan untuk siswa/i aktif <b>SMA/Sederajat</b>.
+                  Peserta 8 Technology Festival atau T8chnofest merupakan siswa/i aktif <b>SMP/MTs/Sederajat</b> atau <b>SMA/SMK/MA/Sederajat</b>, kecuali cabang lomba Cerdas Cermat yang hanya diperuntukkan untuk siswa/i aktif kelas X/XI SMA Negeri 8 Jakarta.
                 </li>
                 <li>
                   Peserta mendaftarkan diri pada formulir berikut: <a
@@ -224,7 +224,7 @@ export default function EventPage() {
                   <br />
                   Web Design: Rp65.000,00
                   <br />
-                  Cerdas Cermat Informatika: Rp75.000,00
+                  Cerdas Cermat Informatika: GRATIS (khusus internal SMAN 8 Jakarta)
                 </li>
                 <li>
                   Tidak ada pengembalian uang (<i>no refund</i>) jika peserta mengundurkan diri.
@@ -383,7 +383,20 @@ export default function EventPage() {
                 <li><b className="text-crimson-500">DILARANG KERAS</b> mendokumentasikan soal dan/atau menyebarluaskannya tanpa izin tertulis dari panitia.</li>
               </ul>
 
-              <h2>B. Petunjuk Teknis Babak Penyisihan</h2>
+              <h2>B. Materi</h2>
+              <p>Materi Cabang Lomba Cerdas Cermat Informatika (CCI) mengikuti materi yang disajikan pada buku <i>Informatika untuk SMA Kelas X</i>, antara lain:</p>
+              <ul>
+                <li>Informatika dan Keterampilan Generik</li>
+                <li>Berpikir Komputasional</li>
+                <li>Teknologi Informasi dan Komunikasi</li>
+                <li>Sistem Komputer</li>
+                <li>Jaringan Komputer dan Internet</li>
+                <li>Analisis Data</li>
+                <li>Algoritma dan Pemrograman dalam Bahasa Pemrograman Python</li>
+                <li>Dampak Sosial Informatika</li>
+              </ul>
+
+              <h2>C. Petunjuk Teknis Babak Penyisihan</h2>
               <ul>
                 <li>Babak Penyisihan CCI akan dilaksanakan melalui suatu platform kuis online yang akan diinformasikan pada hari-H perlombaan.</li>
                 <li>Setiap tim <b className="text-crimson-500">WAJIB</b> membawa <b>laptop atau tablet</b> (salah satu) untuk mengerjakan soal.</li>
@@ -396,7 +409,7 @@ export default function EventPage() {
                 <li>Tim yang lolos ke Babak Semifinal ialah <b>9 (sembilan) tim dengan perolehan poin tertinggi</b> dari hasil pengerjaan soal Babak Penyisihan.</li>
               </ul>
 
-              <h2>C. Petunjuk Teknis Babak Semifinal</h2>
+              <h2>D. Petunjuk Teknis Babak Semifinal</h2>
               <ul>
                 <li>Tim-tim yang lolos ke Babak Semifinal akan dibagi ke dalam <b>3 kloter</b>. Pembagian kloter akan ditentukan secara acak oleh panitia.</li>
                 <li>Babak Semifinal akan dilaksanakan dalam 2 (dua) Sesi, yaitu <b>Sesi Wajib dan Sesi Rebutan</b>.</li>
@@ -420,21 +433,8 @@ export default function EventPage() {
                 <li>Di akhir Sesi Rebutan, akan dilakukan perhitungan poin. <b>1 (satu) tim dengan perolehan poin tertinggi</b> berhak untuk lanjut ke Babak Grand Final.</li>
               </ul>
 
-              <h2>D. Petunjuk Teknis Babak Grand Final</h2>
+              <h2>E. Petunjuk Teknis Babak Grand Final</h2>
               <p>Babak Grand Final akan dilaksanakan dalam 3 (tiga) Sesi, yaitu Sesi Rebutan, Tic-tac-toe, dan Jeopardy. Petunjuk lebih lanjut akan dijelaskan oleh panitia tepat sebelum Babak Grand Final dilaksanakan.</p>
-
-              <h2>E. Materi</h2>
-              <p>Materi Cabang Lomba Cerdas Cermat Informatika (CCI) mengikuti materi yang disajikan pada buku <i>Informatika untuk SMA Kelas X</i>, antara lain:</p>
-              <ul>
-                <li>Informatika dan Keterampilan Generik</li>
-                <li>Berpikir Komputasional</li>
-                <li>Teknologi Informasi dan Komunikasi</li>
-                <li>Sistem Komputer</li>
-                <li>Jaringan Komputer dan Internet</li>
-                <li>Analisis Data</li>
-                <li>Algoritma dan Pemrograman dalam Bahasa Pemrograman Python</li>
-                <li>Dampak Sosial Informatika</li>
-              </ul>
             </TabsContent>
           </Tabs>
         </div>
